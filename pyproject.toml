@@ -13,6 +13,7 @@ dependencies = [
     "numpy>=2.2.6",
     "peft>=0.18.1",
     "pygame>=2.6.1",
+    "scipy>=1.17.1",
     "trl>=0.24.0",
     "unsloth>=2026.3.4 ; sys_platform == 'linux'",
     "vllm>=0.17.0 ; sys_platform == 'linux'",
