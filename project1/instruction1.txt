@@ -1,0 +1,11 @@
+1. Download the "P01_Enhancing_Reasoning_Capability_in_LLMs_student.ipynb" notebook.
+
+2. Read the entire Introduction Section in the P01 notebookk CAREFULLY before you start your project.
+
+3. After you complete your project, follow the Submission Instructions Section in the P01 notebook to make your submission.
+
+*Apart from the files required in the Submission Instructions Section, we'll inform you how to submit your LoRA adapter files later.
+
+4. You can upload as many versions of your submission file as you want before the deadline. So, please do NOT wait until the last few minutes to make your submission.
+
+Please do not hesitate to use the student forum on QM+ (for general questions) or my email (chao.shu@qmul.ac.uk) (for personal project questions) to raise your questions about the lab.
